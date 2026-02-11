@@ -1,0 +1,5 @@
+psycopg2-binary
+SpeechRecognition
+pyaudio
+python-dotenv
+tk
